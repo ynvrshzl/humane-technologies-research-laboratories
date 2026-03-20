@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Computer_science-research-purple)
 
-# Humane Ethical Technology Research Project 
+# Cyberethos
+_**Ethics + Cybernetics.** A humane ethical technology research project_
 
 ![](https://images.pexels.com/photos/724994/pexels-photo-724994.jpeg)
 
@@ -16,4 +17,5 @@ This repository contains documentation, for a group of planned software, for tec
 
 ## Aliases for this project
 - **"Cyberethos"** - Capturing the "ethos" of the technology.
+- **Humane acoustic somatic research technology laboratories** - Since this will someday be a decentralized, open-source, collective of software architecture.
 - **"Homotechno Mechanics"** - The functional relationship at which the human-machine interconectedness is used for healing.
